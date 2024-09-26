@@ -17,18 +17,18 @@ Hospital Sterilization Information Management System
  
 
 ### Teams and Members
-- Backend
+- [Backend](https://github.com/sdt-grp-two-uestc/backend)
   - Godfred
   - Soufiane
 
  
-- Frontend
+- [Frontend](https://github.com/sdt-grp-two-uestc/frontend)
   - Yves Fidele
   - Wissal
   - Chawa
 
 
-- Mobile
+- [Mobile](https://github.com/sdt-grp-two-uestc/mobile)
   - Bilal
  
 
