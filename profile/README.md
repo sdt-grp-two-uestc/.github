@@ -20,6 +20,7 @@ Hospital Sterilization Information Management System
 - Backend
   - Godfred
   - Soufiane
+
  
 - Frontend
   - Yves Fidele
@@ -28,6 +29,18 @@ Hospital Sterilization Information Management System
 
 
 - Mobile
-  - 
+  - Bilal
+ 
+
+- Documentation
+  - Frederick
+  - Belal
+
+- Testing and Quality Assurance
+  - All members
     
 
+
+### Estimated Delivery Deadline
+- Duration: 4 Weeks
+- Deadline: November 1, 2024
