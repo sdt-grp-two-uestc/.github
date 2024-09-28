@@ -1,5 +1,18 @@
 # SOFTWARE DEVELOPMENT TECHNOLOGY - GROUP 2 - 2024
 
+|  STUDENT ID  |            NAME            |      TEAM     |
+|--------------|----------------------------|---------------|
+| 202424080114 | Godfred Doe                | PM, Backend   |
+| 202424080124 | Bilal Khan                 | Mobile        |
+| 202424010105 | Soufiane Jdaba             | Backend       |
+| 202424080109 | WISSAL BENNANE             | Frontend      |
+| 202424080106 | MIAKHIL BELAL              | Documentation |
+| 202414080113 | Amaar Aashir               | Documentation |
+| 202424080128 | CHIRWA CHAWANANGWA MABUCHI | Frontend      |
+| 202414010103 | Yves Fidèle Aikoun         | Frontend      |
+| 202424080210 | Rubaba Fredrick Petro      | Documentation |
+| 202324090112 | TELILA BETEKET GIRMA       |               |
+
 ## PROJECT 💻
 **Hospital Sterilization Information Management System**
 
