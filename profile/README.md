@@ -1,9 +1,9 @@
-## SOFTWARE DEVELOPMENT TECHNOLOGY - GROUP 2 - 2024
+# SOFTWARE DEVELOPMENT TECHNOLOGY - GROUP 2 - 2024
 
-### PROJECT 💻
-Hospital Sterilization Information Management System
+## PROJECT 💻
+**Hospital Sterilization Information Management System**
 
-### Development Stacks 🧰
+## Development Stacks 🧰
 - Programming Languages
   - Python
   - Javascript
@@ -16,7 +16,7 @@ Hospital Sterilization Information Management System
   - Flutter
  
 
-### Teams and Members
+## Teams and Members
 - [Backend](https://github.com/sdt-grp-two-uestc/backend)
   - Godfred
   - Soufiane
@@ -32,15 +32,21 @@ Hospital Sterilization Information Management System
   - Bilal
  
 
-- Documentation
+- Documentation & Design
   - Frederick
   - Belal
+  - Amaar (Design)
 
 - Testing and Quality Assurance
   - All members
     
 
 
-### Estimated Delivery Deadline
+## Estimated Delivery Deadline
 - Duration: 4 Weeks
 - Deadline: November 1, 2024
+
+### Meeting Schedule
+**Number of Times:** 2/week
+**Meeting Mode:** In-Person
+
