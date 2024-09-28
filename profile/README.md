@@ -46,7 +46,7 @@
 - Duration: 4 Weeks
 - Deadline: November 1, 2024
 
-### Meeting Schedule
+## Meeting Schedule
 **Number of Times:** 2/week
 **Meeting Mode:** In-Person
 
