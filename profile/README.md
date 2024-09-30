@@ -61,5 +61,11 @@
 
 ## Meeting Schedule
 **Number of Times:** 2/week
+
 **Meeting Mode:** In-Person
 
+**Meeting Days**: Monday & Thursday
+
+**Meeting Time:** 1:30PM
+
+**Meeting Place:** Liren Building A101
