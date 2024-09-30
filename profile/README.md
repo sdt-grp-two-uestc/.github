@@ -69,3 +69,7 @@
 **Meeting Time:** 1:30PM
 
 **Meeting Place:** Liren Building A101
+
+
+## Project SPEC
+[Sterilization Information Management System Spec](https://docs.google.com/document/d/1cMJsuiPZN-7MIIzh7Xm-06oWIqqBVltjuMnUR0o-dV0/edit?usp=sharing)
