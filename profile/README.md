@@ -29,31 +29,6 @@
   - Flutter
  
 
-## Teams and Members
-- [Backend](https://github.com/sdt-grp-two-uestc/backend)
-  - Godfred
-  - Soufiane
-
- 
-- [Frontend](https://github.com/sdt-grp-two-uestc/frontend)
-  - Yves Fidele
-  - Wissal
-  - Chawa
-
-
-- [Mobile](https://github.com/sdt-grp-two-uestc/mobile)
-  - Bilal
- 
-
-- Documentation & Design
-  - Frederick
-  - Belal
-  - Amaar (Design)
-
-- Testing and Quality Assurance
-  - All members
-    
-
 
 ## Estimated Delivery Deadline
 - Duration: 4 Weeks
@@ -71,5 +46,9 @@
 **Meeting Place:** Liren Building A101
 
 
-## Project SPEC
-[Sterilization Information Management System Spec](https://docs.google.com/document/d/1cMJsuiPZN-7MIIzh7Xm-06oWIqqBVltjuMnUR0o-dV0/edit?usp=sharing)
+## Project Related Documents (Must Read)
+- [Sterilization Information Management System (Description and Sprint Planner)](https://docs.google.com/document/d/1cMJsuiPZN-7MIIzh7Xm-06oWIqqBVltjuMnUR0o-dV0/edit?usp=sharing)
+
+- [Requirement Specification for Sterilization Information Management System](https://docs.google.com/document/d/1l23WeIsFhOMEgakHTvuG9ShxNFy4ZK2T432HT_vOI5g/edit?usp=sharing)
+
+- [Sterilization Information Management System](https://docs.google.com/document/d/19Vt_wTAXXHd07hkvNocP9l6ygZ6gUb-75fow4gFC7jU/edit?usp=sharing)
