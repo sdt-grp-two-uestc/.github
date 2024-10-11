@@ -52,3 +52,8 @@
 - [Requirement Specification for Sterilization Information Management System](https://docs.google.com/document/d/1l23WeIsFhOMEgakHTvuG9ShxNFy4ZK2T432HT_vOI5g/edit?usp=sharing)
 
 - [Sterilization Information Management System](https://docs.google.com/document/d/19Vt_wTAXXHd07hkvNocP9l6ygZ6gUb-75fow4gFC7jU/edit?usp=sharing)
+
+
+
+## Database Design Information Document 
+[Database Document](https://docs.google.com/document/d/1_giuOwLRP6WU0_YBjeLoyUPA5DCVNVrjqTMkIKlmxoQ/edit?usp=sharing)
